@@ -9,4 +9,7 @@ append query to file
 ->save {file name with location} append
 run sql file
 ->@ {file name with location}
+change line size and page size
+->set linesize 1000 pagesize 100
+
 
