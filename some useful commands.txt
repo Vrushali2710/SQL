@@ -1,0 +1,12 @@
+change the type of column
+->  Column {Column name} form a10
+spooling to particular file
+->spool file name 
+spool off
+list files
+->ls
+append query to file
+->save {file name with location} append
+run sql file
+->@ {file name with location}
+
